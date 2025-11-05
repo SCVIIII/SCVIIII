@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SCVIIII
-- 👀 I’m interested in AutoLisp&VBA
+- 👀 I’m interested in C#,MySQL,SQLite,AutoLisp&VBA
 - 🌱 I’m currently learning 《tao li she ji yuan》
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :bxweihang2010@qq.com
